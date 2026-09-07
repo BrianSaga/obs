@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: briansaga.github.io/obs
+  baseUrl: https://briansaga.github.io/obs
   ignorePatterns:
     - private
     - templates
